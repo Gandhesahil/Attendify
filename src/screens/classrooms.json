@@ -1,0 +1,445 @@
+{
+  "classrooms": [
+    {
+      "classroom": "1",
+      "coordinates": {
+        "top_left": {
+          "latitude": 16.845703,
+          "longitude": 74.601110
+        },
+        "top_right": {
+          "latitude": 16.845840,
+          "longitude": 74.600964
+        },
+        "bottom_right": {
+          "latitude": 16.845697,
+          "longitude": 74.601118
+        },
+        "bottom_left": {
+          "latitude": 16.845698,
+          "longitude": 74.601120
+        }
+      }
+    },
+    {
+      "classroom": "2",
+      "coordinates": {
+        "top_left": {
+          "latitude": 16.845590, 
+          "longitude": 74.601158 
+        },
+        "top_right": {
+          "latitude": 16.845580, 
+          "longitude": 74.601178  
+        },
+        "bottom_right": {
+          "latitude": 16.845598 ,
+          "longitude": 74.601034 
+        },
+        "bottom_left": {
+          "latitude": 16.845643, 
+          "longitude": 74.601040 
+        }
+      }
+    },
+    {
+      "classroom": "3",
+      "coordinates": {
+        "top_left": {
+          "latitude": 16.845622,
+          "longitude": 74.600914
+        },
+        "top_right": {
+          "latitude": 16.845672,
+          "longitude": 74.600933
+        },
+        "bottom_right": {
+          "latitude": 16.845638,
+          "longitude": 74.601012
+        },
+        "bottom_left": {
+          "latitude": 16.845551,
+          "longitude": 74.601020
+        }
+      }
+    },
+    {
+      "classroom": "4",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "5",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "6",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "7",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "8",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "9",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "10",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "11",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "12",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "13",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "14",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "15",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "16",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "17",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "18",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "19",
+      "coordinates": {
+        "top_left": {
+          "latitude": 40.730610,
+          "longitude": -73.935242
+        },
+        "top_right": {
+          "latitude": 40.730620,
+          "longitude": -73.935212
+        },
+        "bottom_right": {
+          "latitude": 40.730590,
+          "longitude": -73.935222
+        },
+        "bottom_left": {
+          "latitude": 40.730580,
+          "longitude": -73.935252
+        }
+      }
+    },
+    {
+      "classroom": "20",
+      "coordinates": {
+        "top_left": {
+          "latitude": 16.844723,
+          "longitude": 74.6005944
+        },
+        "top_right": {
+          "latitude": 16.844699,
+          "longitude": 74.6006267
+        },
+        "bottom_right": {
+          "latitude": 16.8444793,
+          "longitude": 74.6007717
+        },
+        "bottom_left": {
+          "latitude": 16.8447556,
+          "longitude": 74.6004824
+        }
+      }
+    },
+    {
+      "classroom": "21",
+      "coordinates": {
+        "top_left": {
+          "latitude": 16.8468788,
+          "longitude": 74.598196
+        },
+        "top_right": {
+          "latitude": 16.8468788,
+          "longitude": 74.598296
+        },
+        "bottom_right": {
+          "latitude": 16.8467788,
+          "longitude": 74.598296
+        },
+        "bottom_left": {
+          "latitude": 16.8467788,
+          "longitude": 74.598196
+        }
+      }
+    }
+  ]
+}
