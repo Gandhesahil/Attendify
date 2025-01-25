@@ -73,7 +73,7 @@ The app eliminates fraudulent attendance practices, reduces manual work, and cre
 
 ---
 
-## Screenshots
+## UI Screens
 
 ### Login Screen
 <img src="assets/screenshots/login_screen.jpg" alt="Login Screen" width="400" />
