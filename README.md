@@ -76,15 +76,15 @@ The app eliminates fraudulent attendance practices, reduces manual work, and cre
 ## Screenshots
 
 ### Login Screen
-<img src="assets/screenshots/login_screen.jpg" alt="Login Screen" width="400" />
+<img src="assets/screenshots/login_screen.jpg" alt="Login Screen" width="400" height="200" />
 
 ### Registration Screen
-<img src="assets/screenshots/Signup_screen.jpg" alt="Registration Screen" width="400" />
+<img src="assets/screenshots/Signup_screen.jpg" alt="Registration Screen" width="400" height="200" />
 
 ### Teacher Dashboard
-<img src="assets/screenshots/Teacher_home.jpg" alt="Teacher Dashboard" width="400" />
+<img src="assets/screenshots/Teacher_home.jpg" alt="Teacher Dashboard" width="400" height="200" />
 
 ### Student Dashboard 
-<img src="assets/screenshots/Student_home.jpg" alt="Attendance Marking" width="400" />
+<img src="assets/screenshots/Student_home.jpg" alt="Attendance Marking" width="400" height="200" />
 
 ---
