@@ -1,79 +1,74 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Attendify
 
-# Getting Started
+**A Secure Classroom Attendance System Using GPS and Biometric Authentication**
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+---
 
-## Step 1: Start the Metro Server
+## Table of Contents
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Technical Overview](#technical-overview)
+4. [Installation Guide](#installation-guide)
+5. [How It Works](#how-it-works)
+6. [System Architecture](#system-architecture)
+7. [UML Diagrams](#uml-diagrams)
+8. [Future Scope](#future-scope)
+9. [Project Plan](#project-plan)
+10. [Contributors](#contributors)
+11. [References](#references)
+12. [License](#license)
 
-To start Metro, run the following command from the _root_ of your React Native project:
+---
 
-```bash
-# using npm
-npm start
+## Introduction
 
-# OR using Yarn
-yarn start
-```
+Attendify is an innovative solution for educational institutions to automate and secure the attendance process. By utilizing **GPS-based location verification** and **biometric fingerprint authentication**, Attendify ensures that only students who are physically present in the classroom can mark their attendance.
 
-## Step 2: Start your Application
+The app eliminates fraudulent attendance practices, reduces manual work, and creates a more reliable and user-friendly experience for teachers and students.
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+---
 
-### For Android
+## Features
 
-```bash
-# using npm
-npm run android
+- **Two-Step Verification**:
+  - **GPS Verification**: Confirms that the student is within the classroom's predefined coordinates.
+  - **Biometric Fingerprint Authentication**: Validates the student's identity using a secure fingerprint match.
 
-# OR using Yarn
-yarn android
-```
+- **Teacher-Generated Code**:
+  - A session-based code provided by the teacher ensures attendance is specific to a lecture.
 
-### For iOS
+- **Secure Data Handling**:
+  - Cryptographic key management to protect sensitive data.
+  - End-to-end encryption for all stored and transmitted data.
 
-```bash
-# using npm
-npm run ios
+- **Cross-Platform Support**:
+  - Mobile application built using React Native to support both Android and iOS devices.
 
-# OR using Yarn
-yarn ios
-```
+- **Scalable Backend**:
+  - A Node.js-based backend with MongoDB for efficient data storage and retrieval.
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+---
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+## Technical Overview
 
-## Step 3: Modifying your App
+### Tech Stack
 
-Now that you have successfully run the app, let's modify it.
+- **Frontend**: React Native
+- **Backend**: Node.js with Express
+- **Database**: MongoDB
+- **APIs**:
+  - GPS: Geolocation API
+  - Biometric Authentication:
+    - Android: BiometricPrompt
+    - iOS: LocalAuthentication
+- **Security**: Cryptographic key generation and management
+- **Version Control**: GitHub
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+### Algorithms
+- **GPS Location Verification**:
+  - Polygon-based geofencing to determine if the user is within the classroom coordinates.
+- **Biometric Key Matching**:
+  - Cryptographic key generation and fingerprint validation to ensure secure authentication.
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+---
