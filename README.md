@@ -72,3 +72,19 @@ The app eliminates fraudulent attendance practices, reduces manual work, and cre
   - Cryptographic key generation and fingerprint validation to ensure secure authentication.
 
 ---
+
+## Screenshots
+
+### Login Screen
+![Login Screen](assets/screenshots/login_screen.jpg)
+
+### Registration Screen
+![Registration Screen](assets/screenshots/Signup_screen.jpg)
+
+### Student Dashboard
+![Dashboard](assets/screenshots/Student_home.jpg)
+
+### Teacher Dashboard
+![Attendance Marking](assets/screenshots/Teacher_home.jpg)
+
+---
